@@ -1,8 +1,11 @@
 package bft.fishtagsapp;
 
+<<<<<<< HEAD
 import android.content.IntentFilter;
 import android.net.wifi.WifiManager;
+=======
 import android.content.Intent;
+>>>>>>> 013c20e267a992a3655abebcd2574c921c9a1533
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.design.widget.FloatingActionButton;
